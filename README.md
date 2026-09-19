@@ -223,7 +223,7 @@ Video Demonstration
 
 The required CSE 310 demonstration video is available here:
 
-www.youtube.com/
+https://youtu.be/A1jgz1NcwSc?feature=shared
 
 The video demonstrates the program running and provides a walkthrough of the source code. My face is visible during the presentation as required by the course.
 
